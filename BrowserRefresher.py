@@ -81,7 +81,9 @@ title = ("__________                                           ____"
          "__|   |__|    \___  >____  >___|  /\___  >__|   \n"
          "        \/                          \/     \/                "
          "\/     \/                   \/     \/     \/     \/     \n")
-# the title means "Browse Refresher" in ASCII style
+
+# the title means "Browser Refresher" in ASCII style
+
 
 loading_bar = ("[      ]", "[⬛     ]", "[⬛⬛    ]",
                "[⬛⬛⬛   ]", "[⬛⬛⬛⬛  ]", "[⬛⬛⬛⬛⬛ ]",
